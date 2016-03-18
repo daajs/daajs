@@ -22,14 +22,14 @@ logic. It is supposed to be a real RAD tool.
 DAAJS-CLI
 ---------
 DAAJS may be installed as a NPM package, that also provides command line interface for DAA projects:  
-    `npm install -g daa`
+    `npm install -g daa`  
 After the successful installation run:  
-    `daa -h`
+    `daa -h`  
 that will display currently available commands and options.
 
 Directories of the repository
 ---------
 * `js` - Contains DAAJS Framework modules.
-* `pages` - Contains some example DAA-script pages, see http://daajs.org/guide?DAAScript for more info.
+* `pages` - Contains some example DAA-script pages, see [DAA-script](http://daajs.org/guide?DAAScript) for more info.
 * `templates` - Contains an example template. DAAJS-CLI `build` command makes both development and production style HTML pages of such templates.
 * `css` - Contains example CSS files.
