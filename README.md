@@ -21,10 +21,10 @@ logic. It is supposed to be a real RAD tool.
 
 DAAJS-CLI
 ---------
-DAAJS may be installed as a NPM package, that also provides command line interface for DAA projects:
-    npm install -g daa
-After the successful installation run:
-    daa -h
+DAAJS may be installed as a NPM package, that also provides command line interface for DAA projects:  
+    `npm install -g daa`
+After the successful installation run:  
+    `daa -h`
 that will display currently available commands and options.
 
 Directories of the repository
