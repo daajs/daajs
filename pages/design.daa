@@ -1,0 +1,5 @@
+@page design;
+   @zone header;
+   @zone content include = %pagename%;
+   @zone footer;
+   
