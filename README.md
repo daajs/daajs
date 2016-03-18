@@ -30,6 +30,6 @@ that will display currently available commands and options.
 Directories of the repository
 ---------
 * `js` - Contains DAAJS Framework modules.
-* `pages` - Contains some example DAA-script pages, see [DAA-script](http://daajs.org/guide?DAAScript) for more info.
+* `pages` - Contains some example DAA-script pages. DAAJS-CLI `compile` command makes application structure JSONs of such scripts. See [DAA-script](http://daajs.org/guide?DAAScript) for more info.
 * `templates` - Contains an example template. DAAJS-CLI `build` command makes both development and production style HTML pages of such templates.
 * `css` - Contains example CSS files.
