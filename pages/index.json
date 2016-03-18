@@ -1,0 +1,21 @@
+{
+   path: "",
+   name: "views",
+   index: {
+      path: "views",
+      name: "index",
+      isproto: 1,
+      isvtree: 1,
+      isvtreeitem: 1,
+      isviewtree: 1,
+      lastid: 0,
+      lastids: {path: "views/index", name: "lastids", label: 1},
+      vindex: 0,
+      vlevel: 0,
+      vcount: 0,
+      vparent: "",
+      proto: {path: "views/index", name: "proto", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 0, vlevel: 0, vcount: 0, vparent: "", vnid: "", vcid: ""},
+      index: {path: "views/index", name: "index", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 0, vlevel: 0, vcount: 1, vparent: "", vnid: "index", vcid: "page", isstaticid: 1},
+      label1: {path: "views/index", name: "label1", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 1, vlevel: 1, vcount: 0, vparent: "index", vnid: "label1", vcid: "label", text: "Hello world!"}
+   }
+}

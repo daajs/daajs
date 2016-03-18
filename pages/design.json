@@ -1,0 +1,23 @@
+{
+   path: "",
+   name: "views",
+   design: {
+      path: "views",
+      name: "design",
+      isproto: 1,
+      isvtree: 1,
+      isvtreeitem: 1,
+      isviewtree: 1,
+      lastid: 0,
+      lastids: {path: "views/design", name: "lastids"},
+      vindex: 0,
+      vlevel: 0,
+      vcount: 0,
+      vparent: "",
+      proto: {path: "views/design", name: "proto", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 0, vlevel: 0, vcount: 0, vparent: "", vnid: "", vcid: ""},
+      design: {path: "views/design", name: "design", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 0, vlevel: 0, vcount: 3, vparent: "", vnid: "design", vcid: "page", isstaticid: 1},
+      header: {path: "views/design", name: "header", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 1, vlevel: 1, vcount: 0, vparent: "design", vnid: "header", vcid: "zone", isstaticid: 1},
+      content: {path: "views/design", name: "content", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 2, vlevel: 1, vcount: 0, vparent: "design", vnid: "content", vcid: "zone", isstaticid: 1, include: "%pagename%"},
+      footer: {path: "views/design", name: "footer", isproto: 1, isvtreeitem: 1, isviewdata: 1, vindex: 3, vlevel: 1, vcount: 0, vparent: "design", vnid: "footer", vcid: "zone", isstaticid: 1}
+   }
+}
