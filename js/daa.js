@@ -2,7 +2,9 @@
 // DAA CORE MODULE
 //
 // (c) Mikaella Klyueva, DAA Systems, 2013-2016
-// http://daajs.org/
+// http://daajs.org
+// Developer Guide: http://daajs.org/guide
+// API Reference: http://daajs.org/api
 // *****************************************************************************
 
 // *****************************************************************************
@@ -24,7 +26,7 @@ var daa = new function() {
    this.path = "";
    this.name = "daa";
    this.classname = "DAA";
-   this.version = "0.1.0";
+   this.version = "0.9.2";
 
 // ***
 // @constant daa.Constants
