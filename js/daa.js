@@ -1,7 +1,7 @@
 // *****************************************************************************
 // DAA CORE MODULE
 //
-// (c) Mikaella Klyueva, DAA Systems, 2013-2016
+// (c) Marfa Zavodchikova, Mikaella Klyueva, 2016
 // http://daajs.org
 // Developer Guide: http://daajs.org/guide
 // API Reference: http://daajs.org/api
